@@ -1,8 +1,8 @@
 import requests
 
-TOKEN = ""
-text = ""
-post_id = ""
+TOKEN = "token"
+text = "text"
+post_id = "post_id"
 
 headers = {
     'authorization': "Bearer " + TOKEN,
